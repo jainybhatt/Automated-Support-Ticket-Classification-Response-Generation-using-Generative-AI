@@ -1,0 +1,2 @@
+# Automated-Support-Ticket-Classification-Response-Generation-using-Generative-AI
+Developed an end-to-end Generative AI application leveraging Large Language Models (LLMs) to automate support ticket processing workflows. This solution enables organizations to improve customer experience, operational efficiency, and support team productivity by reducing manual triaging efforts and enabling data-driven prioritization.
